@@ -1,1 +1,2 @@
 # myFirstRepo
+Adding repo details 
